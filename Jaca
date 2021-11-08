@@ -1,0 +1,100 @@
+
+
+public class
+{
+
+    public static void main(String[] args) 
+
+  {       
+
+          LLSRecursion lis = new LLSRecursion();   
+
+  
+
+        
+
+          
+
+          
+
+   }
+
+}
+
+class Node 
+
+{
+
+    public int data;
+
+    public Node next;
+
+    Node(int d)
+
+    { 
+
+      data = d; next = null;
+
+    }  
+
+ 
+
+}
+
+class LLSRecursion
+
+{   
+
+     Node head;
+
+ 
+
+    public LLSRecursion()   
+
+            {
+
+        head = null;
+
+            } 
+
+  public boolean IsEmpty() 
+
+  { 
+
+      if (head == null)
+
+                    return true; 
+
+          else 
+
+                   return false;    
+
+       } 
+
+  public void addToTail(int x)    
+
+{
+
+ 
+
+}     
+
+public int deleteFirst ( )
+
+{
+
+  
+
+}
+
+public int SUM (Node tmp)
+
+  {       
+
+      
+
+    }
+
+ 
+
+  }
